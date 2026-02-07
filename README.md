@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>🔭 I’m currently working on<br><br>Data Structures & Algorithms<br><br>Basic Machine Learning projects (Python, scikit-learn)<br><br>Signal Processing & Analog Electronics assignments<br><br>👯 I’m looking to collaborate on<br><br>Beginner-friendly ML / Python projects<br><br>College mini-projects<br><br>DSA practice & problem solving<br><br>🤝 I’m looking for help with<br><br>Optimizing algorithms<br><br>Understanding ML math (loss functions, gradients)<br><br>Electronics circuit analysis (BJT & MOSFET)<br><br>🌱 I’m currently learning<br><br>Machine Learning<br><br>Python for Data Science<br><br>Advanced DSA<br><br>Digital & Analog Electronics<br><br>💬 Ask me about<br><br>DSA<br><br>Python basics<br><br>Circuit analysis problems<br><br>How to prepare assignments & reports neatly<br><br>⚡ Fun fact<br><br>I enjoy breaking down very confusing engineering problems into simple steps 😄
+🔭 Working on DSA, Machine Learning (Python), and Signal Processing<br>👯 Open to collaborate on student projects & beginner ML work<br>🤝 Looking for help with ML math and circuit analysis<br>🌱 Learning Machine Learning, Python, DSA, Analog & Digital Electronics<br>💬 Ask me about DSA problems, Python basics, electronics circuits<br>⚡ Fun fact: I simplify complex engineering problems
 
 
 ## 🌐 Socials:
